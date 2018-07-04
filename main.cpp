@@ -39,16 +39,5 @@ int main(int argc, char const *argv[])
         
     }
     
-    
-    
-
     return 0;
-    /**
-     * x
-     * xx
-     * xxx
-     * xxxx
-     * xxxxx
-     * xxxxxx
-     */
 }
